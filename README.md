@@ -143,7 +143,7 @@ git clone https://github.com/go-admin-team/go-admin-ui.git
 # Enter the go-admin backend project
 cd ./go-admin
 
-# Update dependencies
+# go
 go mod tidy
 
 # Compile the project
